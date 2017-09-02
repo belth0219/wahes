@@ -1,0 +1,14 @@
+atom-beauty
+atomic-chrome
+autocomplete-paths
+autocomplete-python
+browser-plus
+busy signal
+file-icons
+intentions
+linter
+linter-flake8
+linter-ui-default
+minimap
+platformio-ide-terminal
+simplified-chinese-menu
